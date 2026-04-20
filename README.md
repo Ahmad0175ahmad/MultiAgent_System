@@ -1,7 +1,6 @@
 # AutoAgent - Multi-Agent AI System
 
-AutoAgent is a modular multi-agent workflow app that breaks a user goal into tasks and routes them through research and writing agents. It uses API-based LLM providers only, with Groq and Gemini handling generation while ChromaDB stores memory.
-
+AutoAgent is a modular multi-agent workflow app that breaks a user goal into tasks and routes them through research and writing agents. It uses API-based LLM providers only, with Groq and Gemini handling generation while ChromaDB stores memory
 ## Tech Stack
 
 - Python 3.11+
